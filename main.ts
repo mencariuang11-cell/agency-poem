@@ -20,7 +20,7 @@ const LINES = [
   'it leaves a space the width of a breath,',
   'and nothing goes out in my name',
   'until I stand in that space',
-  'and said: yes, this. Or: no. Begin again.',
+  'and say: yes, this. Or: no. Begin again.',
   '',
   'People think the power is the writing.',
   'It is in the pause —',
